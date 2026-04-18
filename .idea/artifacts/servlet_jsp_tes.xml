@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="servlet-jsp-tes">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="servlet-jsp-tes.war" />
+  </artifact>
+</component>
